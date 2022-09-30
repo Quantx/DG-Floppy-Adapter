@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Data General")(type "KiCad")(uri "${KICAD_USER_SYMBOL_DIR}/Data General.kicad_sym")(options "")(descr ""))
+  (lib (name "8008")(type "KiCad")(uri "${KICAD_USER_SYMBOL_DIR}/8008.kicad_sym")(options "")(descr ""))
+)
